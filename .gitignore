@@ -1,0 +1,16 @@
+# Maven / Java
+target/
+*.jar
+*.war
+*.class
+.idea/
+*.iml
+
+# Node / Angular
+node_modules/
+dist/
+.angular/
+
+# OS
+.DS_Store
+Thumbs.db
